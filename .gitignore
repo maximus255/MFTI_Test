@@ -1,0 +1,9 @@
+# Local configs
+.ipynb_checkpoints/
+1000/
+Pascal-part/
+Test assignment.md
+__pycache__
+.cache/
+._*
+.DS_Store
