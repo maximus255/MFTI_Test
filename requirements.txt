@@ -1,0 +1,6 @@
+numpy
+matplotlib
+torch
+torchmetrics
+torchvision
+segmentation_models_pytorch
